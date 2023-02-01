@@ -1,0 +1,1 @@
+long cube(int x);
